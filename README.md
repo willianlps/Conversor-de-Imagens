@@ -63,5 +63,3 @@ O PyInstaller não faz compilação cruzada: o `.exe` precisa ser gerado em um W
 - Arquivos que já estão no formato de saída são ignorados, para evitar recompressão desnecessária.
 - Em imagens animadas, só o primeiro quadro é convertido.
 
-
-Defina aqui a licença do projeto (por exemplo, MIT).
